@@ -1,3 +1,4 @@
+Open kakao talk [LINK](https://open.kakao.com/o/gl8sklo
 # Zynq_TEST_PCB
 
 Tool : kicad 6.0
