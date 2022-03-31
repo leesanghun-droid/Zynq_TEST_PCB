@@ -32,4 +32,4 @@ Tool : kicad 6.0
       
 ### 5. standard alone program test
 
-### 6. linux 
+### 6. linux poting
