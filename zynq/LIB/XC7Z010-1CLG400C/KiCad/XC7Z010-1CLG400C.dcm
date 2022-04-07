@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC7Z010-1CLG400C
+D Zynq-7000 All Programmable SoC, BGA-400
+K
+F https://www.xilinx.com/support/documentation/data_sheets/ds187-XC7Z010-XC7Z020-Data-Sheet.pdf
+$ENDCMP
+#
+#End Doc Library

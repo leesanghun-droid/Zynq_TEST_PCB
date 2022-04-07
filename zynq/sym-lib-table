@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "XC7Z010-1CLG400C")(type "Legacy")(uri "${KIPRJMOD}/LIB/XC7Z010-1CLG400C/KiCad/XC7Z010-1CLG400C.lib")(options "")(descr ""))
+)
