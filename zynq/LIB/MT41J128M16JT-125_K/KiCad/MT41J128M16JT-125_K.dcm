@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT41J128M16JT-125_K
+D DRAM DDR3 2G 128MX16 FBGA
+K
+F https://www.micron.com/products/dram/ddr3-sdram/part-catalog/mt41j128m16jt-125
+$ENDCMP
+#
+#End Doc Library

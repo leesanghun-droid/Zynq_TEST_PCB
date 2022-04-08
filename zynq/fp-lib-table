@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/LIB/XC7Z010-1CLG400C/KiCad.pretty")(options "")(descr ""))
+  (lib (name "DDR")(type "KiCad")(uri "${KIPRJMOD}/LIB/MT41J128M16JT-125_K/KiCad")(options "")(descr ""))
 )
