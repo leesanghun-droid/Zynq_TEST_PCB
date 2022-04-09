@@ -15,7 +15,6 @@ Tool : kicad 6.0
 
       - 100Mbps ethernet
       - usb 2.0
-      ~~- hdmi v1.4~~ 
       - ddr3 256MB 667Mhz
       - sd_card
       
