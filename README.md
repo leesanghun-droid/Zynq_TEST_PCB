@@ -11,15 +11,47 @@ Tool : kicad 6.0
   
 ## Project step
 
-### 1. make concept
+### 1. make concept ( ~ 2022.04.05 )
 
       - 100Mbps ethernet
       - usb 2.0
-      - hdmi v1.4
       - ddr3 256MB 667Mhz
       - sd_card
       
-### 2. drawing schematic
+### 2. drawing schematic ( ~ 2022.04.20 )
+
+MAIN : XC7Z010-1CLG400C
+POWER : ADP5052
+JTAG : FT2232HQ
+FLASH memory : 
+
+4GB eMMC Flash
+16MB QSPI Flash
+TF card interface
+
+
+DRAM : micron 4KK77-D9PTK
+512MB DDR3 SDRAM (2 x 256MB, 32-bit)
+
+DDR 고속 배선 아트웍 참조
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=bestmind4276&logNo=220702125147
+
+ethernet : RTL8211E
+10/100/1000M Ethernet
+
+
+usb host : USB3320C
+
+아트웍 순서
+
+1. DDR
+2. EMMC
+3. ETHERNET
+4. USB
+5. JTAG 
+6. POWER
+
+
 
 ### 3. order pcb 
 
