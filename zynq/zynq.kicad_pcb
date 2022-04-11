@@ -556,7 +556,7 @@
 
   (footprint "DDR:BGA96C80P9X16_800X1400X120" (layer "F.Cu")
     (tedit 0) (tstamp 2adf658b-552f-4b22-a8ec-e2a99545b800)
-    (at 88.09 68.74 90)
+    (at 90.03 66.96 90)
     (descr "96-Ball FBGA ??x16 (JT)%0 ")
     (tags "Integrated Circuit")
     (property "Arrow Part Number" "MT41J128M16JT-125:K")
